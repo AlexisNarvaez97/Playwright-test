@@ -2,6 +2,7 @@ venv
 
 #Pycharm
 .idea/
+.idea
 
 
 __pycache__/
